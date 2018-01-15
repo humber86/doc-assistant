@@ -1,6 +1,8 @@
-# doc-assistant
+# Abanico Doc Assistant
 
 Author: Humberto Castellano
+
+Company: Abanico Systems F.P.
 
 Created: February 2015
 
